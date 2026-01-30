@@ -164,10 +164,10 @@ http://localhost:5173
 ## 📸 Screenshots
 
 ### Chrome Extension (Gmail)
-![Chrome Extension Gmail Integration](screenshots/gmail-extension.png)
+![Chrome Extension Gmail Integration](screenshots/gmail-extension.jpeg)
 
 ### Web UI
-![React Web UI](screenshots/web-ui.png)
+![React Web UI](screenshots/web-ui.jpeg)
 
 ---
 ## 📈 Future Improvements
